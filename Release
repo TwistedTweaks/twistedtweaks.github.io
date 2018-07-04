@@ -1,0 +1,8 @@
+Origin: Twisted Tweaks
+Label: Twisted Tweaks
+Suite: stable
+Version: 0.9
+Codename: tangelo
+Architectures: iphoneos-arm
+Components: main
+Description: "At least it's not Packix"
